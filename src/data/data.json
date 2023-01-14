@@ -1,0 +1,186 @@
+{
+  "mobile": [
+    {
+      "id": 0,
+      "image": "/store-images/mobile/a03.jpg",
+      "title": "Samsung A03",
+      "desc": "Mid level Phone",
+      "price": 430,
+      "category": "mobile"
+    },
+    {
+      "id": 1,
+      "image": "/store-images/mobile/a32.jpg",
+      "title": "Samsung A32",
+      "desc": "Mid level Phone Good",
+      "price": 530,
+      "category": "mobile"
+    },
+    {
+      "id": 2,
+      "image": "/store-images/mobile/m52.jpg",
+      "title": "Samsung M52 5G",
+      "desc": "Mid level Phone",
+      "price": 480,
+      "category": "mobile"
+    },
+    {
+      "id": 3,
+      "image": "/store-images/mobile/s20fe.jpg",
+      "title": "Samsung S20FE",
+      "desc": "Normal-High level Phone",
+      "price": 600,
+      "category": "mobile"
+    },
+    {
+      "id": 4,
+      "image": "/store-images/mobile/s21.jpg",
+      "title": "Samsung S21",
+      "desc": "High level Phone",
+      "price": 700,
+      "category": "mobile"
+    },
+    {
+      "id": 5,
+      "image": "/store-images/mobile/s22ultra.jpg",
+      "title": "Samsung S22Ultra",
+      "desc": "very high level Phone",
+      "price": 900,
+      "category": "mobile"
+    }
+  ],
+  "headphone": [
+    {
+      "id": 0,
+      "image": "/store-images/headphone/cat.jpg",
+      "title": "Cat Headphone",
+      "desc": "This is Good headphone",
+      "price": 30,
+      "category": "headphone"
+    },
+    {
+      "id": 1,
+      "image": "/store-images/headphone/k19.jpg",
+      "title": "K19 Headphone",
+      "desc": "This is Good headphone",
+      "price": 25,
+      "category": "headphone"
+    },
+    {
+      "id": 2,
+      "image": "/store-images/headphone/k55.jpg",
+      "title": "K55 Headphone",
+      "desc": "This is Good headphone",
+      "price": 38,
+      "category": "headphone"
+    },
+    {
+      "id": 3,
+      "image": "/store-images/headphone/r144.jpg",
+      "title": "R144 Headphone",
+      "desc": "This is Good headphone",
+      "price": 60,
+      "category": "headphone"
+    }
+  ],
+  "laptop": [
+    {
+      "id": 0,
+      "image": "/store-images/laptop/apple-mac-air.jpg",
+      "title": "Apple MacBook Air",
+      "desc": "very high laptop",
+      "price": 1300,
+      "category": "laptop"
+    },
+    {
+      "id": 1,
+      "image": "/store-images/laptop/asus-tuf-dash.jpg",
+      "title": "Asus TUF Dash",
+      "desc": "high laptop",
+      "price": 900,
+      "category": "laptop"
+    },
+    {
+      "id": 2,
+      "image": "/store-images/laptop/asus-tuf.jpg",
+      "title": "Asus TUF Gaming",
+      "desc": "very high laptop",
+      "price": 1200,
+      "category": "laptop"
+    },
+    {
+      "id": 3,
+      "image": "/store-images/laptop/hp-victus.jpg",
+      "title": "HP Victus",
+      "desc": "very high laptop",
+      "price": 1400,
+      "category": "laptop"
+    },
+    {
+      "id": 4,
+      "image": "/store-images/laptop/lenovo-ideapad5.jpg",
+      "title": "Lenovo Ideapad 5",
+      "desc": "very high laptop",
+      "price": 1250,
+      "category": "laptop"
+    },
+    {
+      "id": 5,
+      "image": "/store-images/laptop/lenovo-idepad3.jpg",
+      "title": "Lenovo Ideapad 3",
+      "desc": "high laptop",
+      "price": 950,
+      "category": "laptop"
+    },
+    {
+      "id": 6,
+      "image": "/store-images/laptop/lenovo-legion5.jpg",
+      "title": "Lenovo LEGION 5",
+      "desc": "very high laptop",
+      "price": 1500,
+      "category": "laptop"
+    }
+  ],
+  "speaker": [
+    {
+      "id": 0,
+      "image": "/store-images/speaker/jbl-parybox.jpg",
+      "title": "JBL Party Box",
+      "desc": "very high Sepaker",
+      "price": 1250,
+      "category": "speaker"
+    },
+    {
+      "id": 1,
+      "image": "/store-images/speaker/kts.jpg",
+      "title": "KTS Chiness Speaker",
+      "desc": "Mid Level Sepaker",
+      "price": 300,
+      "category": "speaker"
+    },
+    {
+      "id": 2,
+      "image": "/store-images/speaker/leito.jpg",
+      "title": "Leito Sepaker",
+      "desc": "very high Sepaker",
+      "price": 1100,
+      "category": "speaker"
+    },
+    {
+      "id": 3,
+      "image": "/store-images/speaker/sony-srs.jpg",
+      "title": "SONY Speaker",
+      "desc": "very high Sepaker",
+      "price": 2000,
+      "category": "speaker"
+    },
+    {
+      "id": 4,
+      "image": "/store-images/speaker/yz.jpg",
+      "title": "YZ Chiness Speaker",
+      "desc": "Mid Level Sepaker",
+      "price": 350,
+      "category": "speaker"
+    }
+  ]
+}

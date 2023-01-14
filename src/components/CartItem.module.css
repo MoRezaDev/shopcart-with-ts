@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  padding: 1rem;
+  flex-direction: column;
+  width: 270px;
+  height: 400px;
+  border: 1px solid silver;
+  border-radius: 0.3rem;
+}
+
+.priceContainer {
+  background-color: rgb(33, 200, 33);
+  width: fit-content;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.2rem;
+  color: #fff;
+  margin: 1rem 0;
+}
+
+.innerButtons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.innerButtons > span {
+  background-color: #0e86d4;
+  padding: 0.25rem 0.8rem;
+  color: #fff;
+  font-weight: 700;
+  border-radius: 0.2rem;
+}

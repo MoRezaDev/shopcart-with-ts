@@ -1,0 +1,43 @@
+.appbar-container {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  height: 80px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.appbar-contents {
+  height: 100%;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.appbar-container a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.circle {
+  position: relative;
+  cursor: pointer;
+}
+
+.circle-inner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  transform: translate(25%, 25%);
+  border-radius: 50%;
+}
+
+.circle-inner span {
+  color: red;
+}

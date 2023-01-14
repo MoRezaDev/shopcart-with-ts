@@ -1,0 +1,9 @@
+.rootContainer {
+  width: 100%;
+}
+
+.container {
+  padding: 1rem;
+  box-shadow: 2px 2px 8px rgba(81, 85, 71, 0.5);
+  border-radius: 0.5rem;
+}
