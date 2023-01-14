@@ -5,8 +5,11 @@ import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 import "./styles.css";
 import DrawerMenu from "../components/DrawerMenu";
 
+import useReducerContext from "../hooks/useReducerContext";
+
 const Header = () => {
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
+  const { state } = useReducerContext();
   return (
     <Container maxWidth="lg">
       <AppBar>
@@ -25,7 +28,7 @@ const Header = () => {
           <div onClick={() => setIsDrawerOpen(true)} className="circle">
             <AddShoppingCartIcon fontSize="large" />
             <div className="circle-inner">
-              <span>3</span>
+              <span>{state.itemsCounter}</span>
             </div>
           </div>
           <DrawerMenu
